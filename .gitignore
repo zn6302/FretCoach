@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# MediaPipe model: download with the command in demo/README.md
+demo/models/
+
+# per-user calibration and regenerable media
+demo/calib.json
+results/*.mp4

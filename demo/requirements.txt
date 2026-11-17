@@ -1,0 +1,5 @@
+# Tested with Python 3.11 on macOS (Apple M5), 2026-11-17
+mediapipe==1.2.3
+opencv-contrib-python==5.0.0
+numpy==2.4.6
+matplotlib          # only for experiments.py figures

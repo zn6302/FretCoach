@@ -1,0 +1,56 @@
+{
+  "E1_k_all_correct_range": [
+    0.1,
+    0.65
+  ],
+  "E1_raw_offsets_mm": {
+    "index": 5.45,
+    "middle": 5.09,
+    "ring": 4.92
+  },
+  "E1_spacing_mm": 8.72,
+  "E2_k_used": 0.38,
+  "E2": {
+    "variants": 60,
+    "hand_detected": 53,
+    "chord_all_correct": 31,
+    "finger_correct": {
+      "index": 37,
+      "middle": 44,
+      "ring": 38
+    },
+    "spread_mm": {
+      "index": {
+        "sd_across_mm": 3.3,
+        "sd_along_mm": 4.72
+      },
+      "middle": {
+        "sd_across_mm": 2.41,
+        "sd_along_mm": 1.77
+      },
+      "ring": {
+        "sd_across_mm": 2.85,
+        "sd_along_mm": 2.47
+      }
+    }
+  },
+  "E2_mean_sd_across_mm": 2.85,
+  "E2b_chord_correct_by_window": {
+    "1": 0.574,
+    "3": 0.734,
+    "5": 0.814,
+    "10": 0.94
+  },
+  "E3_steel_single_frame_at": {
+    "1 mm": 1.0,
+    "2 mm": 0.933,
+    "3 mm": 0.776,
+    "4 mm": 0.64,
+    "5 mm": 0.535
+  },
+  "E3_steel_bias3_at": {
+    "1 mm": 0.744,
+    "2 mm": 0.628,
+    "3 mm": 0.572
+  }
+}
