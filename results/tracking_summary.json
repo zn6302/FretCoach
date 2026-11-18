@@ -1,0 +1,356 @@
+{
+ "rows": {
+  "across": [
+   {
+    "amount": 0.0,
+    "track_err_across_mm": 0.04,
+    "track_err_along_mm": 0.25,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.5,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.13,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 1.0,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.13,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 1.5,
+    "track_err_across_mm": 0.1,
+    "track_err_along_mm": 0.08,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 2.0,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.08,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 2.5,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.12,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 3.0,
+    "track_err_across_mm": 0.04,
+    "track_err_along_mm": 0.08,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 3.5,
+    "track_err_across_mm": 0.05,
+    "track_err_along_mm": 0.07,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 4.0,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.05,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 4.5,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.07,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 5.0,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.12,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 5.5,
+    "track_err_across_mm": 0.11,
+    "track_err_along_mm": 0.16,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 6.0,
+    "track_err_across_mm": 0.09,
+    "track_err_along_mm": 0.2,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 6.5,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.1,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 7.0,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.09,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 7.5,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.09,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 8.0,
+    "track_err_across_mm": 0.09,
+    "track_err_along_mm": 0.08,
+    "tracked": "10/10"
+   }
+  ],
+  "along": [
+   {
+    "amount": 0.0,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.11,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 1.0,
+    "track_err_across_mm": 0.05,
+    "track_err_along_mm": 0.06,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 2.0,
+    "track_err_across_mm": 0.11,
+    "track_err_along_mm": 0.08,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 3.0,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.08,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 4.0,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.11,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 5.0,
+    "track_err_across_mm": 0.1,
+    "track_err_along_mm": 0.26,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 6.0,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.09,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 7.0,
+    "track_err_across_mm": 0.09,
+    "track_err_along_mm": 0.09,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 8.0,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.25,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 9.0,
+    "track_err_across_mm": 0.09,
+    "track_err_along_mm": 0.11,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 10.0,
+    "track_err_across_mm": 0.09,
+    "track_err_along_mm": 0.08,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 11.0,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.09,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 12.0,
+    "track_err_across_mm": 0.11,
+    "track_err_along_mm": 0.12,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 13.0,
+    "track_err_across_mm": 0.13,
+    "track_err_along_mm": 0.1,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 14.0,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.06,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 15.0,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.07,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 16.0,
+    "track_err_across_mm": 0.13,
+    "track_err_along_mm": 0.36,
+    "tracked": "10/10"
+   }
+  ],
+  "rotate": [
+   {
+    "amount": 0.0,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.04,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.1,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.12,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.2,
+    "track_err_across_mm": 0.1,
+    "track_err_along_mm": 0.1,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.3,
+    "track_err_across_mm": 0.04,
+    "track_err_along_mm": 0.04,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.4,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.18,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.5,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.12,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.6,
+    "track_err_across_mm": 0.09,
+    "track_err_along_mm": 0.2,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.7,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.12,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.8,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.19,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 0.9,
+    "track_err_across_mm": 0.12,
+    "track_err_along_mm": 0.41,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 1.0,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.3,
+    "tracked": "10/10"
+   }
+  ],
+  "scale": [
+   {
+    "amount": 0.0,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.07,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 1.0,
+    "track_err_across_mm": 0.09,
+    "track_err_along_mm": 0.12,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 2.0,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.09,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 3.0,
+    "track_err_across_mm": 0.12,
+    "track_err_along_mm": 0.55,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 4.0,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.13,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 5.0,
+    "track_err_across_mm": 0.11,
+    "track_err_along_mm": 0.11,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 6.0,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.24,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 7.0,
+    "track_err_across_mm": 0.06,
+    "track_err_along_mm": 0.24,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 8.0,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.35,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 9.0,
+    "track_err_across_mm": 0.08,
+    "track_err_along_mm": 0.33,
+    "tracked": "10/10"
+   },
+   {
+    "amount": 10.0,
+    "track_err_across_mm": 0.07,
+    "track_err_along_mm": 0.25,
+    "tracked": "10/10"
+   }
+  ]
+ },
+ "reference_features": 183,
+ "tracked": "560/560",
+ "median_inliers": 79,
+ "worst_err_mm": 0.55,
+ "median_condition_worst_err_mm": 0.11499999999999999,
+ "conditions_over_1mm": 0,
+ "conditions": 56,
+ "p_correct_at_worst_steel": 1.0
+}
